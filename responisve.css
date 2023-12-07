@@ -1,0 +1,39 @@
+@media (width > 1440px) {
+    .headerimgdesktop {
+        display: block;
+        width: 100vw;
+    }
+    .headerimg {
+        display: none;
+    }
+    .todomoon {
+        left: 35%;
+        gap: 405px;
+    }
+    .form {
+        left: 35%;
+    }
+    .form {
+        width: 540px;
+
+    }
+    .left {
+        width: 540px;
+        margin-left: 90px;
+        gap: 350px;
+    }
+    .footer {
+        width: 540px;
+        margin-left: 90px;
+    }
+    .divBox {
+        width: 540px;
+        margin-left: 90px;
+    }
+    .ximg {
+        margin-left: 205px;
+    }
+    .input {
+        width: 480px;
+    }
+}
